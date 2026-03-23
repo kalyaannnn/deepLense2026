@@ -18,14 +18,7 @@
 | EfficientNet-B0  | 0.9859 |
 | ResNet50         | 0.5093 |
 
-### Visuals
 
-<p align="center">
-  <img src="figures/task1_efficientnet.pn" width="400"/>
-  <img src="figures/task1_resnet.png" width="400"/>
-</p>
-
----
 
 ## Specific Test IX. Foundation Model
 
@@ -49,13 +42,8 @@
 | CDM            | 0.9438 |
 | No Substructure| 0.9947 |
 
-#### Visuals
 
-<p align="center">
-  <img src="figures/roc_curve.png" width="500"/>
-</p>
 
----
 
 ### Task IX.B — Super-Resolution
 
@@ -75,13 +63,7 @@
 | PSNR   | **42.21 dB** |
 | SSIM   | **0.9758** |
 
-#### Visuals
 
-<p align="center">
-  <img src="figures/sr_results.png" width="700"/>
-</p>
-
----
 
 ## Notes
 
